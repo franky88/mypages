@@ -3,3 +3,7 @@ module.exports = {
     ? '/mypages/'
     : '/'
 }
+
+// module.exports = {
+//     publicPath: '/mypages/'
+// }
